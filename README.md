@@ -1,20 +1,13 @@
+
 🥢 [Seu Nome] | Precision Designer
-  ________________________________
- /________________________________\
+----------------------------------
+  /  (Design)  +  (Deep Learning) \
  |   Chopsticks |  Wi-Fi Sensing  |
- |                                |
- |           LINKS OF             |
- |                                |
- |    ┌────────▼───────┐      |
- |            links               |
- |   [Site do canal](https://gabrimx7.github.io/)  |
- |     └────────┬────────┘    | 
- |                                |
- |  ┌────────▼───────┐        |
- |            links               |
- |  [Site do canal web](https://gabrimx7.github.io/g7/)|
- |     └────────┬────────┘    |
- \________________________________/
+  \  Customs    +  DensePose Head /
+----------------------------------
+📍 IoT & Signal Processing Engineer
+🛠️ Stack: Python • PyTorch • Fusion 360
+🚀 Tracking life, one signal at a time.
 
 
 
