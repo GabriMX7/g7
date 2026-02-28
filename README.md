@@ -1,55 +1,34 @@
-# 🐺 GABRIMX7
+# ⚡ Conecte-se com gabrimx7
 
-```{=html}
 <p align="center">
-```
-🔥 Projetos • Scripts • Atualizações • Conteúdos Exclusivos 🔥
-```{=html}
+  <img src="https://img.shields.io/badge/Status-Online-2ea44f?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/G7_Project-Live-7289da?style=for-the-badge&logo=github" alt="G7 Project">
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🌐 CONECTE-SE
+## 🌐 Ecossistema Digital
+Acesse meus principais projetos e portfólio através dos links abaixo:
 
-```{=html}
+* **[Página Oficial](https://gabrimx7.github.io/)** — Meu hub principal com todas as novidades.
+* **[G7 Project](https://gabrimx7.github.io/g7/)** — Documentação e recursos específicos do projeto G7.
+
+---
+
+## 🤝 Suporte e Comunidade
+Precisa de ajuda ou quer enviar uma sugestão? Escolha a melhor forma de interagir:
+
+> [!TIP]
+> **Dúvidas ou Sugestões?**
+> Sinta-se à vontade para entrar em contato através dos nossos canais oficiais.
+
+| Plataforma | Ação |
+| :--- | :--- |
+| **👾 Discord** | [Entrar no Suporte](https://dsc.gg/gabrimx7) |
+| **🌍 Social** | [Ver Redes Sociais](https://gabrimx7.github.io/) |
+
+---
+
 <p align="center">
-```
-🚀 **Site Oficial**\
-https://gabrimx7.github.io/
-
-⚡ **Projeto G7**\
-https://gabrimx7.github.io/g7/
-
-```{=html}
+  <sub>© 2026 Gabrimx7 • Construindo o futuro, um commit por vez.</sub>
 </p>
-```
-
-------------------------------------------------------------------------
-
-## 🎯 SUPORTE
-
-```{=html}
-<p align="center">
-```
-💬 **Discord Oficial**\
-https://dsc.gg/gabrimx7
-
-🌎 **Redes & Outros Links**\
-https://gabrimx7.github.io/
-
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🧠 SOBRE O PROJETO
-
-Aqui é onde a evolução acontece.
-
-Projetos diferenciados, ideias fora do padrão e atualizações
-constantes.\
-Tudo feito com identidade própria.
-
-Se é pra fazer, faz pesado. 💥
