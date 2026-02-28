@@ -1,11 +1,31 @@
-# Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+# 🚀 Bem-vindo ao meu Perfil!
 
-# Entre na pasta
-cd nome-do-projeto
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Portfólio-Acessar-blue?style=for-the-badge&logo=opsgenie" alt="Portfólio">
+</div>
 
-# Instale as dependências
-npm install  # ou pip install -r requirements.txt
+---
 
-# Inicie o projeto
-npm start    # ou python main.py
+### 🌐 Links Úteis & Projetos
+Explore meus principais diretórios e páginas oficiais:
+
+* **[Página Principal]** (https://gabrimx7.github.io/) - Meu hub central.
+* **[G7 Project]** (https://gabrimx7.github.io/g7/) - Acesso direto ao repositório G7.
+
+---
+
+### 📩 Vamos Conversar?
+Se você tiver dúvidas, sugestões ou apenas quiser trocar uma ideia, escolha o canal de sua preferência:
+
+| Canal | Link Direto |
+| :--- | :--- |
+| **👾 Discord** | [Entrar no Servidor](https://dsc.gg/gabrimx7) |
+| **📱 Redes Sociais** | [Ver todos os links](https://gabrimx7.github.io/) |
+
+---
+
+<div align="center">
+  <sub>Feito com ☕ e código por **gabrimx7**</sub>
+</div>
+
