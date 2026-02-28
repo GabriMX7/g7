@@ -1,31 +1,55 @@
-# 🚀 Bem-vindo ao meu Perfil!
+# 🐺 GABRIMX7
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Portfólio-Acessar-blue?style=for-the-badge&logo=opsgenie" alt="Portfólio">
-</div>
+```{=html}
+<p align="center">
+```
+🔥 Projetos • Scripts • Atualizações • Conteúdos Exclusivos 🔥
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-### 🌐 Links Úteis & Projetos
-Explore meus principais diretórios e páginas oficiais:
+## 🌐 CONECTE-SE
 
-* **[Página Principal]** (https://gabrimx7.github.io/) - Meu hub central.
-* **[G7 Project]** (https://gabrimx7.github.io/g7/) - Acesso direto ao repositório G7.
+```{=html}
+<p align="center">
+```
+🚀 **Site Oficial**\
+https://gabrimx7.github.io/
 
----
+⚡ **Projeto G7**\
+https://gabrimx7.github.io/g7/
 
-### 📩 Vamos Conversar?
-Se você tiver dúvidas, sugestões ou apenas quiser trocar uma ideia, escolha o canal de sua preferência:
+```{=html}
+</p>
+```
 
-| Canal | Link Direto |
-| :--- | :--- |
-| **👾 Discord** | [Entrar no Servidor](https://dsc.gg/gabrimx7) |
-| **📱 Redes Sociais** | [Ver todos os links](https://gabrimx7.github.io/) |
+------------------------------------------------------------------------
 
----
+## 🎯 SUPORTE
 
-<div align="center">
-  <sub>Feito com ☕ e código por **gabrimx7**</sub>
-</div>
+```{=html}
+<p align="center">
+```
+💬 **Discord Oficial**\
+https://dsc.gg/gabrimx7
 
+🌎 **Redes & Outros Links**\
+https://gabrimx7.github.io/
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🧠 SOBRE O PROJETO
+
+Aqui é onde a evolução acontece.
+
+Projetos diferenciados, ideias fora do padrão e atualizações
+constantes.\
+Tudo feito com identidade própria.
+
+Se é pra fazer, faz pesado. 💥
