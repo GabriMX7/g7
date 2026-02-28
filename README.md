@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-2ea44f?style=for-the-badge" alt="https://gabrimx7.github.io/">
-  <img src="https://img.shields.io/badge/G7_Project-Live-7289da?style=for-the-badge&logo=github" alt="G7 Project">
+  <img src="https://img.shields.io/badge/G7_Project-Live-7289da?style=for-the-badge&logo=github" alt="https://gabrimx7.github.io/g7/">
 </p>
 
 ---
