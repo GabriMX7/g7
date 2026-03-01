@@ -1,4 +1,4 @@
-# 🔹 Conecte-se Com Gabrimx7
+# Conecte-se Com Gabrimx7
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-2ea44f?style=for-the-badge" alt="https://gabrimx7.github.io/">
